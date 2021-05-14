@@ -14,7 +14,7 @@ var car2_y = 100;
 var car2_img = "car2.png"
 
 
-var can_bg = "racing.jps";
+var can_bg = "racing.jpg";
 
 function add(){
     background_ImgTag = new Image();
